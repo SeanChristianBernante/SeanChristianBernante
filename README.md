@@ -19,5 +19,5 @@ I am Sean Christian Bernante, a passionate coder with a knack for database manag
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact Me
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sean-christian-bernante-1126b32a4/)
+- LinkedIn: [Sean Christian Bernante](https://www.linkedin.com/in/sean-christian-bernante-1126b32a4/)
 - Email: scp.bernante@gmail.com
