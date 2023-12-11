@@ -1,16 +1,23 @@
-### Hi there 👋
+# Sean Christian Bernante
 
-<!--
-**SeanChristianBernante/SeanChristianBernante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am Sean Christian Bernante, a passionate coder with a knack for database management. I thrive on solving intricate problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been hooked ever since.
 
-Here are some ideas to get you started:
+## Education
+- **BS Information Technology**
+  New Era University, 2021-Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certification
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=01093C28AF5808F1C29B1BA36A12EF3779BFD5255C228C80ABB88CCCF24ED1CA)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE386E1A1CDE11272A8C1C4D445E03CD977743FC23378B31559A77E4F1DFB932)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate]((https://catalog-education.oracle.com/pls/certview/sharebadge?id=4B15F5133A9C7729A2A701DBC246184C1AF8AC6B2537F6CE3AC5843C609BB33B))
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/64cc30a904094a6db79953641d496bfc)
+
+## Skill Sets
+- **Programming:** Java, Javascript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Contact Me
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sean-christian-bernante-1126b32a4/)
+- Email: scp.bernante@gmail.com
