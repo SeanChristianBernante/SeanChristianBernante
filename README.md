@@ -12,6 +12,8 @@ I am Sean Christian Bernante, a passionate coder with a knack for database manag
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE386E1A1CDE11272A8C1C4D445E03CD977743FC23378B31559A77E4F1DFB932)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4B15F5133A9C7729A2A701DBC246184C1AF8AC6B2537F6CE3AC5843C609BB33B)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/64cc30a904094a6db79953641d496bfc)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/b4355719284143438480a986a8c1d7f3)
+  
 
 ## Skill Sets
 - **Programming:** Java, Javascript
